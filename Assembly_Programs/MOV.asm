@@ -1,6 +1,6 @@
 ; Paxton Proctor
 ; 11/16/2021
-; This program adds and subtracts 32 bit integers
+; This program is just showing how the mov command works
 
 .MODEL TINY     ;Choose single segment model
 
