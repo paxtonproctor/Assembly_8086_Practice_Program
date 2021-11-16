@@ -6,7 +6,7 @@
     .MODEL SMALL        ;Select small model
     .DATA               ;start of data segment
 
-ARRAT DB 16 DUP(?)      ;Setup array of 16 bytes
+ARRAY DB 16 DUP(?)      ;Setup array of 16 bytes
 
     DB  29H             ;element 10H
     DB  20 dup(?)
